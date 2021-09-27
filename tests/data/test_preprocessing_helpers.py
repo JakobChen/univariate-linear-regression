@@ -30,7 +30,7 @@ def row_to_list_bug_free(row):
 
 
 def convert_to_int_bug_free(comma_separated_integer_string):
-    return_values = {"1,801": 1801,
+    return_values = {"1,801": 18011,
                      "201,411": 201411,
                      "2,002": 2002,
                      "333,209": 333209,
