@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.com/gutfeeling/univariate-linear-regression.svg?branch=master)](https://travis-ci.com/gutfeeling/univariate-linear-regression)
-[![codecov](https://codecov.io/gh/gutfeeling/univariate-linear-regression/branch/master/graph/badge.svg)](https://codecov.io/gh/gutfeeling/univariate-linear-regression)
 
-New badge
 
 [![Build Status](https://app.travis-ci.com/JakobChen/univariate-linear-regression.svg?branch=master)](https://app.travis-ci.com/JakobChen/univariate-linear-regression)
 [![codecov](https://codecov.io/gh/JakobChen/univariate-linear-regression/branch/master/graph/badge.svg?token=0VFKQQZY56)](https://codecov.io/gh/JakobChen/univariate-linear-regression)
